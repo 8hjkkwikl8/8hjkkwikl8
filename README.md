@@ -14,7 +14,7 @@ I build traceable and reproducible AI applications with explicit safety boundari
 - **PromptLens**：不可变提示词版本、可复现实验、失败隔离与 HTML 对比报告。
 - **DataChat BI**：自然语言到只读 SQL 的多层守护，以及不记录参数原文的本地查询审计。
 
-包含 96 项自动化测试与 Ubuntu / Windows CI。演示指标只用于验证工程链路，不代表生产效果。
+包含 127 项自动化测试与 Ubuntu / Windows CI。演示指标只用于验证工程链路，不代表生产效果。
 
 ### [DeepScope](https://github.com/8hjkkwikl8/deepscope)
 
